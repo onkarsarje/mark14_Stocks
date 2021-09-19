@@ -7,7 +7,7 @@
 
 body {
     text-align: center;
-    /* background-color: var(--primary-dark); */
+    con
     color: var(--primary-dark);
     font-family:'Montserrat', sans-serif;
 }
@@ -20,9 +20,9 @@ label{
 
 input{
     color: var(white);
-    /* background-color: var(--primary-dark); */
     border-color: var(--primary-green);
     border-radius: 0.5rem;
+    padding: 1rem ;
 }
 
 #submit-button{
