@@ -22,7 +22,7 @@ input{
     border-color: var(--primary-green);
     border-radius: 0.5rem;
     padding: 1rem;
-    padding-right: 2rem;
+    padding-right: 100px;
 }
 
 #submit-button{
