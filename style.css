@@ -7,7 +7,6 @@
 
 body {
     text-align: center;
-    con
     color: var(--primary-dark);
     font-family:'Montserrat', sans-serif;
 }
@@ -22,7 +21,7 @@ input{
     color: var(white);
     border-color: var(--primary-green);
     border-radius: 0.5rem;
-    padding: 1rem ;
+    padding: 1rem 1rem ;
 }
 
 #submit-button{
@@ -30,9 +29,14 @@ input{
      margin-top: 1rem;
      margin: auto;
      background: transparent;
-     color: var(--primary-green);
-     border-color: var(--primary-green);
+     color: var(--primary-dark);
+     background-color: var(--primary-green);
+     border-color: var(--primary-dark);
      border-width: medium;
-     padding: 0.5;
+     padding: 0.8rem;
      border-radius: 0.3rem;
-   }
+}
+
+::placeholder{
+    color:purple
+}
