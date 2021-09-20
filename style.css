@@ -21,7 +21,7 @@ input{
     color: var(white);
     border-color: var(--primary-green);
     border-radius: 0.5rem;
-    padding: 1rem 1rem ;
+    padding: 1rem 2rem ;
 }
 
 #submit-button{
